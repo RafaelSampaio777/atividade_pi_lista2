@@ -1,0 +1,70 @@
+.container{
+    background-color: #9e6e61;
+    width: 70%;
+    height: 230px;
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;
+}
+.mensagem{
+    background-color: white;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    border: 9px solid #303280;
+    
+}
+p{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+    padding: 40px;
+}
+.container2{
+    margin-top: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#barra1{
+    width: 60%;
+    height: 20px;
+    background-color: blue;
+}
+#barra2{
+    width: 30%;
+    height: 20px;
+    background-color: purple;
+}
+#barra3{
+    width: 50%;
+    height: 20px;
+    background-color: green;
+}
+#barra4{
+    width: 40%;
+    height: 20px;
+    background-color: yellow;
+}
+.container3{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+}
+#barra5{
+    width: 43%;
+    height: 20px;
+    background-color: red;
+}
+#barra6{
+    width: 18%;
+    height: 20px;
+    background-color: #16403c;
+}
+#barra7{
+    width: 39%;
+    height: 20px;
+    background-color: #37ff00;
+}
